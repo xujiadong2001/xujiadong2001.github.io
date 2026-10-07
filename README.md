@@ -24,7 +24,7 @@ python3 -m http.server 8841 --bind 127.0.0.1
 ## 内容维护
 
 初版依据 2026-10-04 英文 CV，论文外链核对于 2026-10-07。
-已录用、预印本和在投论文分别标注；录用状态以 CV 为准。AnchorVLA4D 于 2026-10-07 按用户确认更新为 Submitted to ICRA 2027。AT-VLA 的 arXiv 年份及作者 Guangrui Ren 的拼写使用公开论文信息。
+已录用、预印本和在投论文分别标注；录用状态以 CV 为准。AnchorVLA4D 于 2026-10-07 按用户确认更新为 Submitted to ICRA 2027。论文排序和条目年份与 CV 一致；AT-VLA 标为 2025，录用会议保留 CVPR 2026。作者 Guangrui Ren 的拼写使用公开论文信息。
 
 更新论文时编辑 `index.html` 的对应 `article`。替换论文 PDF 时保留文件名以保持链接稳定，并更新页脚与 `sitemap.xml` 中日期。
 
