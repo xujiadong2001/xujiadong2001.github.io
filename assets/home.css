@@ -12,7 +12,6 @@ a:focus-visible{outline:2px solid var(--accent);outline-offset:5px;border-radius
 .wordmark span{font-size:12px;font-weight:400;letter-spacing:1px;margin-left:12px;color:var(--muted)}
 nav{display:flex;gap:26px;align-items:center}
 nav a{font-size:13px;color:var(--ink)}
-nav .cv-download{color:var(--accent);font-weight:650}
 .layout{max-width:1180px;margin:auto;padding:48px 40px 0;display:grid;grid-template-columns:245px minmax(0,1fr);gap:75px}
 .profile{align-self:start;position:sticky;top:30px}
 .portrait{display:block;width:170px;height:auto;border-radius:5px}
@@ -25,7 +24,6 @@ h1 span{display:block;font-size:17px;font-weight:400;letter-spacing:5px;color:va
 .location span{margin-right:6px}
 .profile-links{display:grid;gap:6px;border-top:1px solid var(--line);padding-top:18px}
 .profile-links a{display:flex;justify-content:space-between;align-items:center;max-width:205px;font-size:13px}
-.pdf{font-size:10px;letter-spacing:.6px}
 section{margin-bottom:52px}
 .intro h2,.contact h2{font:400 29px Georgia,serif;letter-spacing:-.6px;margin:0 0 20px}
 .intro p{color:#505b63}
