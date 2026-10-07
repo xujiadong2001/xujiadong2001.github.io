@@ -8,6 +8,7 @@
 
 - `index.html`：个人介绍、研究论文、教育背景、联系信息。
 - `assets/home.css`：响应式样式。
+- `assets/Jiadong_Xu_CV.pdf`：供公开下载的 CV（已移除手机号），入口位于 Email 下方。
 - `assets/RealTwin-RL.pdf`：RealTwin-RL 的 8 页匿名投稿论文，供公开下载。
 - `assets/favicon.svg`：网站图标。
 - `assets/profile.jpeg`：用户提供的个人照片。
@@ -29,3 +30,5 @@ python3 -m http.server 8841 --bind 127.0.0.1
 更新论文时编辑 `index.html` 的对应 `article`。替换论文 PDF 时保留文件名以保持链接稳定，并更新页脚与 `sitemap.xml` 中日期。
 
 2026-10-07：按用户要求移除全部 CV 下载入口和线上 CV 文件，新增 RealTwin-RL 论文 PDF 下载。原 CV 已移至本地项目的回收站。
+
+2026-10-07：按用户最新要求恢复公开 CV PDF，仅在个人信息栏 Email 下方放置下载入口。
